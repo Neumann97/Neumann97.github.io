@@ -1,5 +1,5 @@
 # 纽尔曼导航
-# https://neumann.github.io/  您做好的网站如使用此代码可给个友情链接，谢谢！
+# https://neumann97.github.io/  您做好的网站如使用此代码可给个友情链接，谢谢！
 
 # 使用说明
 
